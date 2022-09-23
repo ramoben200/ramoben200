@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @ramoben200
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Selamün aleyküm
 
-<!---
-ramoben200/ramoben200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+BENİM ADİM RAMAZAN
+SOY AD ÖZTÜRK
+YAŞ 16
+BU KADAR İYİ BENDE 
+@Ballasresmi
+@BOT_RAMO
